@@ -11,6 +11,7 @@
     position: absolute;
     left: 0px;
     bottom: 0px;
+    background-color:burlywood; /*esse comando prevalece ao comando generico pois vem depois ja que ambos sao em classes*/
 
 }
 
@@ -18,6 +19,7 @@
     position: absolute;
     right: 0px;
     top: 0px;
+    background-color: green;
 
 }
 
@@ -25,5 +27,6 @@
     position: absolute;
     right: 0px;
     bottom: 0px;
+    background-color: blueviolet;
 
 }
