@@ -1,0 +1,29 @@
+/*classe generica de todos os quadrados*/
+.quadrado {
+    border: 3px solid rgb(0,0,0);
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background-color: coral;
+}
+
+.quadrado2 {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+
+}
+
+.quadrado3 {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+
+}
+
+.quadrado4 {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+
+}
