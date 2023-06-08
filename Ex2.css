@@ -1,0 +1,16 @@
+.imagem {
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtZF6vbfNv2hYKarlpyxvzWvc3_lki3mzA6giI0biOpw&s") no-repeat;
+    width: 200px;
+    height: 200px;
+    display: block;
+    background-size: contain;
+
+}
+
+.imagem:hover {
+    background-position: 0px 50px;
+} 
+
+.imagem:active{
+    background-position: 50px 50px;
+}
